@@ -18,6 +18,9 @@ Instituições financeiras precisam equilibrar dois objetivos conflitantes:
 
 O desafio deste dataset envolvia dados extremamente inconsistentes e uma classe minoritária de "Bons pagadores", o que exigia uma estratégia de modelagem que não enviesasse o resultado para a classe majoritária.
 
+
+
+
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** Python
