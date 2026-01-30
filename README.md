@@ -64,3 +64,6 @@ A análise de *Feature Importance* revelou padrões cruciais para a estratégia 
 1.  **Dívida > Renda:** A variável `Outstanding_Debt` (Dívida Pendente) é o preditor mais forte. O modelo aprendeu que o *nível de endividamento* é mais determinante para o risco do que a `Annual_Income` (Renda Anual).
 2.  **Comportamento é Rei:** Variáveis como `Interest_Rate` e `Delay_from_due_date` (atrasos) superam dados demográficos. O histórico de pontualidade pesa mais que o salário.
 3.  **Conclusão:** A política de crédito deve focar na capacidade de pagamento livre (Dívida/Renda) e no histórico recente de atrasos, em vez de focar apenas em clientes com altos salários.
+
+
+Link do Colab: https://colab.research.google.com/drive/11EClkoHBwCK4tM9peUOtC6vcoiphwoSv?usp=sharing
